@@ -1,5 +1,3 @@
-# clusteringAndFeatureAnalysis
-
 # Paper title: Clustering and Feature Analysis of Smartphone Data for Depression Monitoring
 
 https://ieeexplore.ieee.org/document/9629737
